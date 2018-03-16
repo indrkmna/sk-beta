@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => '103.15.226.18',
+	'hostname' => 'heroku',
 	'username' => 'sedotkod_admin',
 	'password' => 'sample123@',
 	'database' => 'sedotkod_database',
