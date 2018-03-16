@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'http://103.15.226.18/',
+	'hostname' => '103.15.226.18',
 	'username' => 'sedotkod_admin',
 	'password' => 'sample123@',
 	'database' => 'sedotkod_database',
